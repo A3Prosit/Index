@@ -35,9 +35,10 @@ Optimisation
 - Indexer les champs va grandement augmenter les perfs.
 - Oracle intègre des outils permettant de monitorer les tables.
 ## Plan d’Action
-Etudes
+**Etudes**
 - Index
 - Fragmentation
-Réalisation
+
+**Réalisation**
 - Corbeille
 
