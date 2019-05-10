@@ -6,7 +6,7 @@
 - Index
 - Mémoire (Alloué au traitement de bases)
 - SGBD
-- Base transactionnelles*
+- Base transactionnelles* : Base qui vérifie tout avant d'éffectuer son opération.
 - Cout d’exploitation
 - Performance de traitement
 - Maintenance
